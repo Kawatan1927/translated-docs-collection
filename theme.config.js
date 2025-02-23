@@ -1,11 +1,11 @@
 export default {
-  logo: <span>ドキュメント集(仮)</span>,
+  logo: <span>公式ドキュメント翻訳集</span>,
   project: {
-    link: 'https://github.com/kawatan1927',
+    link: 'https://github.com/Kawatan1927/translated-docs-collection',
   },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – ドキュメント集(仮)',
+      titleTemplate: '%s – 公式ドキュメント翻訳集',
     }
   },
   sidebar:{
