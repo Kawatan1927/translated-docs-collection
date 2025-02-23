@@ -1,3 +1,7 @@
 {
-  "index": "ホーム"
+  "index": "ホーム",
+  "Psycopg3": "Psycopg3",
+  "Vitest": "Vitest",
+  "AWS CDK": "AWS CDK",
+  "Fast API": "Fast API"
 }
