@@ -1,0 +1,5 @@
+{
+  "connection-classes": "Connection クラス",
+  "errors": "errors - パッケージ例外",
+  "psycopg-pool": "psycopg_pool – コネクションプールの実装"
+}
