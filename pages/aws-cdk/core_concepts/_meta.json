@@ -2,5 +2,6 @@
   "index": "Learn AWS CDK core concepts",
   "apps": "AWS CDK apps",
   "stacks": "AWS CDK stacks",
-  "constructs": "AWS CDK constructs"
+  "constructs": "AWS CDK constructs",
+  "bootstrapping": "AWS CDK bootstrapping"
 }
