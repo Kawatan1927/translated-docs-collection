@@ -3,5 +3,6 @@
   "psycopg3": "Psycopg3",
   "vitest": "Vitest",
   "aws-cdk": "AWS CDK",
+  "aws-blogs": "AWS Blog",
   "fast-api": "Fast API"
 }
